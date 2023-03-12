@@ -1,2 +1,2 @@
-# spyder-lite
-Cambridge Spyder Lite Hackathon
+# Cambridge Spyder Lite Hackathon
+
